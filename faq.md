@@ -11,7 +11,6 @@
 - **Can you just show me some code?**
 
   Sure! Here's some Elixir:
-lknsldkvnsvmsdlkmv
 
   ```elixir
   ["Bigfoot", "Yeti", "Sasquatch"] |> Enum.random()
