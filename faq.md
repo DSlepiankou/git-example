@@ -11,7 +11,8 @@
 - **Can you just show me some code?**
 
   Sure! Here's some Elixir:
-
+asdfasfafs-- delete
+sdfsdfsdf -- imnportant
   ```elixir
   ["Bigfoot", "Yeti", "Sasquatch"] |> Enum.random()
   ```
